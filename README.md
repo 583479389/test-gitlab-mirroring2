@@ -1,1 +1,6 @@
 # test-gitlab-mirroring2
+1
+1
+1
+1
+1
